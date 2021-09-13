@@ -1,5 +1,3 @@
-# eyantra1920
-
 The final code files folder contains the following:
 1) Code for our application that needs to be loaded on Android Studio
 2) The Arduino microcontroller codes for troubleshooting, collecting accelerometer data and recognising gestures
