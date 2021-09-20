@@ -1,8 +1,14 @@
-The final code files folder contains the following:
-1) Code for our application that needs to be loaded on Android Studio
-2) The Arduino microcontroller codes for troubleshooting, collecting accelerometer data and recognising gestures
-3) The python scripts for collecting accelerometer data and storing it in a file and also for detecting gestures.
-This code needs to run on Raspberry pi or a laptop.
-4) The dataset for accelerometer data is in data folder.
-5) ML models are in the AI and ML folder. That folder contains Jupyter notebooks
+AIDE-AI and IoT eneabled home automation system for Disabled and Elderly
 
+Description:
+
+It is a glove-based system which allows the disabled and the elderly to control devices with gestures. Simultaneously, it allows their caretakers and
+family members to monitor their behaviour through a mobile application.
+
+-Developed a gesture controlled glove and a wrist band using flex sensors, Arduino microcontroller and a Bluetooth module.
+
+-Devised a Raspberry Pi hub which collects the data from the glove and appropriately turns a device on or off.
+
+-Built an AI agent using LSTM with two models-Activity recognition and Fall Detection which are trained and tested on real time dataset.
+
+-Developed an android mobile application to monitor the activities of patients and status of devices using Firebase Firestore database.
