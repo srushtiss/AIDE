@@ -12,3 +12,6 @@ family members to monitor their behaviour through a mobile application.
 -Built an AI agent using LSTM with two models-Activity recognition and Fall Detection which are trained and tested on real time dataset.
 
 -Developed an android mobile application to monitor the activities of patients and status of devices using Firebase Firestore database.
+
+Technologies Used:
+IoT, AI, Firebase, Android
