@@ -15,3 +15,6 @@ family members to monitor their behaviour through a mobile application.
 
 Technologies Used:
 IoT, AI, Firebase, Android
+
+Working Demo:
+https://www.youtube.com/watch?v=aMij9ervVSE&list=PLK0jpMYIBd6AUrFZhNqlEHrLDUWzkZu-4&index=20
