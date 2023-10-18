@@ -123,7 +123,7 @@ public class LoginActivity extends AppCompatActivity {
      * Example Call:   startProfileActivity()
      */
     public void startProfileActivity(){
-        if(user_role.equalsIgnoreCase("Patient")){
+        if("Patient".equalsIgnoreCase(user_role)){
             Intent intent1=new Intent(LoginActivity.this,PatientRegistrationActivity.class);
             startActivity(intent1);
         }
